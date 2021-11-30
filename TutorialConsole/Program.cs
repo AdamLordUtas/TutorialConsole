@@ -30,7 +30,7 @@ namespace TutorialConsole
             //Console.WriteLine(e.ToString());
 
             List<Employee> e = new List<Employee>() {
-                new Employee {name = "John", id = 5, gender = "m" },
+                new Employee {name = "Hubert", id = 5, gender = "m" },
                 new Employee {name = "Greg", id = 7, gender = "m" },
                 new Employee {name = "Sara", id = 10, gender = "f" },
                 new Employee {name = "Kkkkszkz", id = 2, gender = "x" }
