@@ -8,7 +8,7 @@ namespace TutorialConsole
 {
     class Employee
     {
-        public string name;
+        public string name;/employee name
         public int id;
         public string gender;
 
